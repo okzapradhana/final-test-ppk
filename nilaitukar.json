@@ -1,0 +1,34 @@
+[
+  {
+    "matauang": "IDR",
+    "nilaitukar": {
+      "USD": 0.00007,
+      "AUD": 0.000095,
+      "JPY": 0.0079
+    }
+  },
+  {
+    "matauang": "USD",
+    "nilaitukar": {
+      "IDR": 14356.5,
+      "AUD": 1.37,
+      "JPY": 113.47
+    }
+  },
+  {
+    "matauang": "AUD",
+    "nilaitukar": {
+      "IDR": 10516.65,
+      "USD": 0.73,
+      "JPY": 83.04
+    }
+  },
+  {
+    "matauang": "JPY",
+    "nilaitukar": {
+      "IDR": 0.00007,
+      "USD": 126.53,
+      "AUD": 0.012
+    }
+  }
+]
